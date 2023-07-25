@@ -1,4 +1,4 @@
-## Sinthiya-Portfolio
+## Portfolio (Sinthiya)
 
 I made this portfolio using Bootstrap components
 
