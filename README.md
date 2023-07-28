@@ -11,7 +11,7 @@ This repository contains a portfolio that I built using Bootstrap 5 and CSS styl
 - At the bottom of this website you will get some of my social links where you can find me.
 
 ## Deployed Link
-<a href="https://sinthiya1.github.io/Sinthiya-Portfolio/">Sinthiya Portfolio Website</a>
+<a href="https://sinthiya1.github.io/Portfolio/">Sinthiya Portfolio Website</a>
 
 
 ## License
